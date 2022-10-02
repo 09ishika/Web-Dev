@@ -1,0 +1,12 @@
+website names ->
+1. colorhunt 
+2. span ke sath width pe koi fark nhi padta hai.
+3. span elements inline hote h ek ke baad ek block.
+4. disply:inline ye bhi span ki tarah work karta h . or width ka koi role nhi hota h .
+5. display:block isme normal paragraph or heading ki tarah work karta hai and span ki property ko khtm kar deta hai or width bhi use kar skte hai .
+6. use inline-block display property for blocks next to each other.
+7. when you hide something just do display:none. like quiz game and hide by using visibilty:hidden . it hides block but it keeps that block at its original postion but display cant do this.
+position :static by default. relative with pointers left right top bottom jaise name h uska opposite function karte hai left right ki or jayega and top bottom .
+absolute same as relative but jaisa name hai waisa hi function hai . 
+difference->absolute work according to parent body and right:10px then it moves 10px from right side of parent body towards the left side .
+and relative with left :10px; moves towards the right side of parent body.10px
